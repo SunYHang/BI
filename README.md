@@ -1,6 +1,16 @@
 # 鱼智能 BI
 
-This project is initialized with [鱼智能 BI](https://pro.ant.design). Follow is the quick guide for how to use.
+This project is initialized with [智能BI可视化系统](https://pro.ant.design). Follow is the quick guide for how to use.
+
+## 页面设计
+
+![智能BI可视化系统-首页](https://img-blog.csdnimg.cn/direct/55af149de8924bdfb346cfd79081506d.png)
+
+![智能BI可视化系统-智能分析（同步）](https://img-blog.csdnimg.cn/direct/787c624d5a1a4420becaf01730893f2b.png)
+
+![智能BI可视化系统-智能分析（异步）](https://img-blog.csdnimg.cn/direct/da2ba42ca90a4b48899b5e92596fd91d.png)
+
+![智能BI可视化系统-我的图表](https://img-blog.csdnimg.cn/direct/ee6a31d7adb6489a8b9fd73b9e6e06ba.png)
 
 ## Environment Prepare
 
