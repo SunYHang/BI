@@ -1,4 +1,4 @@
-# 鱼智能 BI
+# 智能BI可视化系统
 
 This project is initialized with [智能BI可视化系统](https://pro.ant.design). Follow is the quick guide for how to use.
 
